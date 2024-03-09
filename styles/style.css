@@ -115,7 +115,7 @@ body{
     width: 35%;
     border-radius: 48px 0;
     box-shadow: 10px 7px 20px var(--cor-terciaria);
-    object-fit: cover;
+    object-fit: fill;
    /* filter:drop-shadow(10px 7px 10px orange) */  /*efeito para imagem sem fundo*/
 }
 
